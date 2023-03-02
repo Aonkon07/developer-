@@ -1,0 +1,49 @@
+body {
+    font-family: 'Gloock', serif;
+    margin: 0%;
+
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+
+}
+
+.nam {
+    color: orange;
+}
+
+h3 {
+    color: rgb(39, 179, 179);
+}
+
+p {
+    color: blue;
+}
+
+section {
+    display: flex;
+}
+
+.half {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half img {
+    width: 70%;
+}
+
+.link-button {
+    background-image: linear-gradient(tomato, violet);
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+
+.top-banner {
+    background-image: url(images/icons/twitter.png);
+    background-repeat: no-repeat;
+}
