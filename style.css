@@ -24,6 +24,9 @@ p {
 
 section {
     display: flex;
+    margin-bottom: 150px;
+    margin-left: 10px;
+    margin-top: 20px;
 }
 
 .half {
@@ -46,4 +49,27 @@ section {
 .top-banner {
     background-image: url(images/icons/twitter.png);
     background-repeat: no-repeat;
+}
+
+.half2 img {
+    width: 40%;
+
+}
+
+.nam2 {
+    color: blueviolet;
+}
+
+.link-button2 {
+    background-image: linear-gradient(yellow, violet);
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.Dreambig {
+    background-image: url(images/icons/react.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 20%;
 }
